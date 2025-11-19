@@ -6,7 +6,7 @@ This repository provides the code for the predictive numerical model of a Yanmar
 
 The following scripts: 
 1. combustion_model_analysis
-2. Main_Prediction_Model_combined_prediction
+2. Prediction_Model_Experimental_Comparison
 3. Wiebe_comparison
 4. Wiebe_correlation_final
 5. Processed_Experimental_Pressure_automatic
