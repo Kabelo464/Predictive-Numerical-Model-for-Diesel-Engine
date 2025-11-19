@@ -25,8 +25,8 @@ When the user opens each script, they will see a description of the function of 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***Folder Descriptions:***
 
-a. Functions -> contains all the functions used in the main 5 scripts mentioned above  
-b. Example_Data -> contains experimental data that can be used to run the main 5 scripts mentioned above.
+a. Functions -> contains all the functions used in the main 6 scripts mentioned above  
+b. Example_Data -> contains example experimental data that can be used to run the main 6 scripts mentioned above.
 
 The experimental pressure data used in developing the final model is measured by another student. Therefore, no example pressure data is provided.
 
