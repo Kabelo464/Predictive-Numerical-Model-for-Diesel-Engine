@@ -7,12 +7,13 @@ This repository provides the code for the predictive numerical model of a Yanmar
 The following scripts: 
 1. combustion_model_analysis
 2. Main_Prediction_Model_combined_prediction
-3. Wiebe_comparison_clean_automatic
+3. Wiebe_comparison
 4. Wiebe_correlation_final
+5. Processed_Experimental_Pressure_automatic
 
 Are the final scripts used to build the predictive numerical model.
 
-The script 5."Numerical_Predictive_Model_FINAL" is the FINAL Predictive numerical model for the Yanmar L100N Compression-Ignition engine
+The script 6."Numerical_Predictive_Model_FINAL" is the FINAL Predictive numerical model for the Yanmar L100N Compression-Ignition engine
 
 See the final project report document for further information on the theory used to develop the scripts mentioned above.
 
