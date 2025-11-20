@@ -13,9 +13,7 @@ The following scripts:
 
 Are the final scripts used to build the predictive numerical model.
 
-The script 6."Numerical_Predictive_Model_FINAL" is the FINAL Predictive numerical model for the Yanmar L100N Compression-Ignition engine
-
-See the final project report document for further information on the theory used to develop the scripts mentioned above.
+The script 6."Numerical_Predictive_Model_FINAL" is the FINAL Predictive numerical model for the Yanmar L100N diesel engine
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***Script descriptions***
@@ -26,7 +24,7 @@ When the user opens each script, they will see a description of the function of 
 ***Folder Descriptions:***
 
 a. Functions -> contains all the functions used in the main 6 scripts mentioned above  
-b. Example_Data -> contains example experimental data that can be used to run the main 6 scripts mentioned above.
+b. Example_Data -> contains example data that can be used to run the main 6 scripts mentioned above.
 
 The experimental pressure data used in developing the final model is measured by another student. Therefore, no example pressure data is provided.
 
