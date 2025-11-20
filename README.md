@@ -26,7 +26,7 @@ When the user opens each script, they will see a description of the function of 
 a. Functions -> contains all the functions used in the main 6 scripts mentioned above  
 b. Example_Data -> contains example data that can be used to run the main 6 scripts mentioned above.
 
-The experimental pressure data used in developing the final model is measured by another student. Therefore, no example pressure data is provided.
+The experimental pressure data used in developing the final model was measured by another student. Therefore, no example pressure data is provided.
 
 
 
